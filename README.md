@@ -1,4 +1,4 @@
 node-express-mongodb
 ====================
 
-nodejs api using express and mongodb
+rest api built with nodejs using express and mongodb
